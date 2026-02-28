@@ -37,6 +37,13 @@ recargarEnergia();
 // ============================================
 
 // Estudiante A: Crear la función superAtaque() aquí abajo
+function superAtaque() {
+    energiaEnemigo = energiaEnemigo - 40;
+    console.log("¡" + nombreHeroe + " usa su TÉCNICA DEFINITIVA!");
+    console.log("¡El impacto es devastador! La energía de " + enemigo + " cae de golpe a " + energiaEnemigo + ".");
+}
 
+// Simulando el superataque:
+superAtaque();
 
 // Estudiante B: Crear la función escudoMagico() aquí abajo
