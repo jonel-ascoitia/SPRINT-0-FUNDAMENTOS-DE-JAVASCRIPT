@@ -9,3 +9,8 @@ console.log("--- Reporte de Misión ---");
 console.log(nombreHeroe + " está defendiendo " + ciudad + " de " + enemigo + ".");
 console.log("Su nivel de energía actual es de " + nivelEnergia + "%.");
 console.log("Usará su " + poder + " para ganar.");
+
+// --- Modificación del Estudiante 2 ---
+nivelEnergia = 30; // Reasignando la variable
+console.log("¡Cuidado! " + enemigo + " ha lanzado un ataque sorpresa.");
+console.log("El nivel de energía de " + nombreHeroe + " bajó drásticamente a " + nivelEnergia + "%.");
