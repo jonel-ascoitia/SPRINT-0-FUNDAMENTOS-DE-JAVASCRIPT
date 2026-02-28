@@ -47,3 +47,11 @@ function superAtaque() {
 superAtaque();
 
 // Estudiante B: Crear la función escudoMagico() aquí abajo
+function escudoMagico() {
+    energiaHeroe = energiaHeroe + 20;
+    console.log("¡El " + enemigo + " intenta contraatacar!");
+    console.log("Pero " + nombreHeroe + " activa su ESCUDO MÁGICO, bloqueando el daño y regenerando energía a " + energiaHeroe + ".");
+}
+
+// Simulando el escudo mágico:
+escudoMagico();
