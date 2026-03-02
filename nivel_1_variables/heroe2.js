@@ -1,7 +1,7 @@
 // heroe2.js
 let nombreHeroe = "Spider-Man";
 let poder = "Lanzar telarañas y sentido arácnido";
-let nivelEnergia = 90;
+let nivelEnergia = 100;
 let ciudad = "Nueva York";
 let enemigo = "Duende Verde";
 
