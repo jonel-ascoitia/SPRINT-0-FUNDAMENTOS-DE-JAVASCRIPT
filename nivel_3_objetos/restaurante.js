@@ -2,14 +2,14 @@
 
 // Estudiante A: Crea objeto cliente 1
 let cliente1 = {
-    nombre: "Carlos",
+    nombre: "Jonel",
     dinero: 50,
     hambre: 80
 };
 
 // Estudiante B: Crea objeto cliente 2
 let cliente2 = {
-    nombre: "Ana",
+    nombre: "Esteban",
     dinero: 100,
     hambre: 50
 };
